@@ -23,8 +23,6 @@
   <img align="left" alt="Aman's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
-
-<br />
 Hi, I'm Hridoy Halder Partho, a Full Stack Developer 🚀 from Bangladesh, currently. Beside's programming, I enjoy eating food and traveling.
 <br/>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
