@@ -24,7 +24,7 @@
 </a>
 <p></p>
 <br/>
-<p>Hi, I'm Hridoy Halder Partho, a Full Stack Developer 🚀 from Bangladesh, currently. Beside's programming, I enjoy eating food and traveling.</p>
+<p>Hi, I'm Hridoy Halder Partho, a Mern Stack Developer 🚀 from Bangladesh, currently. Beside's programming, I enjoy eating food and traveling.</p>
 <br/>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
